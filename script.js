@@ -8,9 +8,51 @@
 
 // if else statement
 
-let x = 25;
-let city = "Dhaka";
-if(x>18 && city == "Dhaka") {
-    console.log("You are ready to go!");
+// let x = 15;
+// let city = "Dhaka";
+// if(x>18 && city == "Dhaka") {
+//     console.log("You are ready to go!");
+// } else {
+//     console.log("You are not perfect!");
+// }
+
+
+// switch case statement
+let marks = parseFloat(prompt("Enter a number : "));
+switch(true) {
+    case(marks>100 || marks<=0):
+    console.log("Invalid marks");
+    break;
+
+    case(marks>=90 && marks<=100):
+    console.log("A+");
+    break;
+
+    case(marks>=80 && marks<90) :
+    console.log("A");
+    break;
+
+    case(marks>=70 && marks<80) :
+    console.log("A-");
+    break;
+
+    case(marks>=60 && marks<70) :
+    console.log("B");
+    break;
+
+    case(marks>=50 && marks<60) :
+    console.log("C");
+    break;
+
+    case(marks>=40 && marks<50) :
+    console.log("D");
+    break;
+
+    case(marks>=33 && marks<40) :
+    console.log("E");
+    break;
+
+    default :
+    console.log("Fail");
 }
 
