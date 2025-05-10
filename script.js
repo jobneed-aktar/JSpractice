@@ -68,3 +68,12 @@
 //     document.write(x+"<button>While loop</button> </br>");
 //     x++;
 // }
+
+
+// do while loop
+
+// let x = 0;
+// do{
+//     document.write(x+"<button>do while loop</button><br>");
+//     x++;
+// } while(x<10)
