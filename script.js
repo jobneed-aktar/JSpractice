@@ -77,3 +77,13 @@
 //     document.write(x+"<button>do while loop</button><br>");
 //     x++;
 // } while(x<10)
+
+
+// function
+
+function add(n1,n2){
+    return n1 + n2;
+}
+
+let result = add(10,20);
+console.log(result);
