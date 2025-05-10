@@ -81,9 +81,30 @@
 
 // function
 
-function add(n1,n2){
-    return n1 + n2;
+// function add(n1,n2){
+//     return n1 + n2;
+// }
+
+// let result = add(10,20);
+// console.log(result);
+
+
+// object
+const info = {
+    fullName : "Google corporation",
+    address : "California",
+    products : [
+        "Play store",
+        "Youtube",
+        "Google",
+        "Blog",
+        "Gemini"
+    ],
+    start() {
+        console.log("This function is working");
+    },
+    isGoogleWork : true
 }
 
-let result = add(10,20);
-console.log(result);
+info.start();
+console.log(info.address);
