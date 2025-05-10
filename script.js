@@ -90,21 +90,27 @@
 
 
 // object
-const info = {
-    fullName : "Google corporation",
-    address : "California",
-    products : [
-        "Play store",
-        "Youtube",
-        "Google",
-        "Blog",
-        "Gemini"
-    ],
-    start() {
-        console.log("This function is working");
-    },
-    isGoogleWork : true
-}
+// const info = {
+//     fullName : "Google corporation",
+//     address : "California",
+//     products : [
+//         "Play store",
+//         "Youtube",
+//         "Google",
+//         "Blog",
+//         "Gemini"
+//     ],
+//     start() {
+//         console.log("This function is working");
+//     },
+//     isGoogleWork : true
+// }
 
-info.start();
-console.log(info.address);
+// info.start();
+// console.log(info.address);
+
+
+
+// Array
+const info = ["Google","Microsoft","x.com","Amazon","Alibaba.com"]
+console.log(info[0]);
