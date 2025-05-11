@@ -112,5 +112,13 @@
 
 
 // Array
-const info = ["Google","Microsoft","x.com","Amazon","Alibaba.com"]
-console.log(info[0]);
+// const info = ["Google","Microsoft","x.com","Amazon","Alibaba.com"]
+// console.log(info[0]);
+
+// Function
+function fullName() {
+    return "Aktaruz";
+}
+
+let newFullName = fullName()+"zaman";
+console.log(newFullName);
