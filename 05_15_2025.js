@@ -163,4 +163,47 @@
 // let result = multiplication(10,20);
 // console.log(result);
 
+// function multiplication(x,y) {
+//     let isNumber = typeof(x)
+//     if(isNumber !== "numbe") {
+//         return "1st input is not a valid number!";
+//     }else if(typeof y !== "number") {
+//         return "2nd input is not a valid number";
+//     } else {
+//         return x * y;
+//     }
+// }
+
+// let result = multiplication(10,20);
+// console.log(result);
+
+// let x = true
+
+// if(typeof x === "number"){
+//     console.log("Its number");
+    
+// }else if(typeof x === "string"){
+//     console.log("Its string");
+    
+// }else if(typeof x  === "boolean"){
+//     console.log("Its boolean");
+    
+// }
+
+// console.log(typeof(x));
+
+
+
+// function multiplyNumber(x,y) {
+//     if(typeof x !== "number") {
+//         return "1sr input is not a valid number!";
+//     } else if(typeof y !== "number") {
+//        return "2nd input is not a valid number!";
+//     } else {
+//         return x*y;
+//     }
+// }
+// let result = multiplyNumber(10,20);
+// console.log(result);
+
 
