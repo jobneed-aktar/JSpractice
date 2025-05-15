@@ -67,3 +67,47 @@
 // let info = ["a","b","c"]
 // info.push("d");
 // console.log(info);
+
+
+// let info = "country Bangladesh is beautiful country jobneed.aktar@gmail.com";
+// let result = info.includes("beautiful");
+// let resutNumber = 0+result;
+// console.log(resutNumber);
+
+
+// console.log(info.startsWith("Bangladesh"));
+
+// const email = "what the hell are you ding right now test@example.com";
+// let reg = email.match(/^[^\s@]+@[^\s@]+\.[^\s@]+$/);
+// console.log(reg);
+
+
+
+// let info = "i love python";
+// let result = info.replace("python","js");
+// console.log(result);
+
+
+// let data = "i love bangladesh & bangladesh";
+// let newData = data.replaceAll("bangladesh","bd");
+// console.log(newData);
+
+
+
+// let info = [1,2,3,4,5,6,7,8,9,10];
+// let result = info.splice(0,5);
+// console.log(result);
+// let info = "Bangladesh_Is_A_Beautiful_Country"
+// let newArr = info.split("_");
+// console.log(newArr);
+
+// let info = "Bangladesh";
+// let subStr = info.substring(3);
+// console.log(subStr);
+
+// let info = " Bangladesh  ";
+// let result = info.trimStart();
+// console.log(result);
+// console.log(result.length);
+
+
