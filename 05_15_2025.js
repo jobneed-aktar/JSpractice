@@ -110,4 +110,57 @@
 // console.log(result);
 // console.log(result.length);
 
+// let newDate = new Date();
+// console.log(newDate.getTime());
+
+// const start = new Date("1997-01-15");
+// const end = new Date("2025-03-13");
+// const difference = end - start;
+// const days = difference / (1000*60*60*24)
+// console.log(days);
+
+
+// let time = new Date();
+// let bdTime = time.toLocaleString("en-US", { timeZone: "Asia/Dhaka" });
+// console.log("Bangladesh Time:", bdTime);
+
+
+// console.log(Math.floor(Math.random()*10)+1);
+
+
+
+
+// let numbers = 12.34567890;
+// console.log(numbers.toLocaleString("en-US"));
+// console.log(numbers.toLocaleString("bn-BD"));
+
+// console.log(numbers.toExponential());
+// console.log(numbers.toFixed(2));
+// console.log(numbers.toPrecision(4));
+// console.log(numbers.toPrecision(4));
+
+
+// let num = 123;
+// console.log(typeof String(num));
+
+
+// console.log(Number.MIN_VALUE);
+
+// let result = "fraid" / "fraid";
+// console.log(typeof result);
+
+
+// function multiplication(x,y) {
+//     if(typeof x !== "number") {
+//         return "1st input is not a valid number!";
+//     }else if(typeof y !== "number") {
+//         return "2nd input is not a valid number";
+//     } else {
+//         return x * y;
+//     }
+// }
+
+// let result = multiplication(10,20);
+// console.log(result);
+
 
