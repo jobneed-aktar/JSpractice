@@ -10,5 +10,8 @@ for(let val in info){
     // console.log(val);
 
     // value access
-    console.log(info[val]);
+    // console.log(info[val]);
+
+    // key and value access
+    console.log(val + ": " + info[val]);
 }
