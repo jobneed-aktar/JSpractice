@@ -116,9 +116,9 @@
 // console.log(info[0]);
 
 // Function
-function fullName() {
-    return "Aktaruz";
-}
+// function fullName() {
+//     return "Aktaruz";
+// }
 
-let newFullName = fullName()+"zaman";
-console.log(newFullName);
+// let newFullName = fullName()+"zaman";
+// console.log(newFullName);
