@@ -47,3 +47,50 @@
 // document.writeln(`${language}</br>`);
 // document.writeln(`${userAgent}</br>`);
 // document.writeln(`${platform}</br>`);
+
+
+//geoLoacation
+// navigator.geolocation.getCurrentPosition((position)=>{
+//     const altitude = position.coords.altitude;
+//     const latitude = position.coords.latitude;
+//     const speed = position.coords.speed;
+//     const longitude = position.coords.longitude;
+
+//     document.write(`altitude: ${altitude}</br>`);
+//     document.write(`latitude: ${latitude}</br>`);
+//     document.write(`speed: ${speed}</br>`);
+//     document.write(`longitude: ${longitude}</br>`);
+// })
+
+
+
+// common javascript event
+// onclick
+// function onclickFunc(msg) {
+//     console.log(msg);
+// }
+
+// onmouseover
+// function onmouseOverFunc(msg) {
+//     console.log(msg);
+// }
+
+// onmouseover
+// function onmouseLeaveFunc(msg) {
+//     console.log(msg);
+// }
+
+// onmouseover
+// function onkeydownFunc(msg) {
+//     console.log(msg);
+// }
+
+// onchange
+function onchangeFunc(msg) {
+    console.log(msg);
+}
+
+// onkeyup
+function onloadFunc(msg) {
+    console.log(msg);
+}
