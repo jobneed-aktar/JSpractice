@@ -76,3 +76,12 @@
 //     msg.innerText = select.value;
 //     msg.style.color = "forestGreen";
 // });
+
+
+// input event listener
+// const input = document.getElementById("input");
+// const msg = document.getElementById("message");
+// input.addEventListener("input",()=>{
+//     msg.innerText = input.value;
+//     msg.style.color = "forestGreen";
+// });
