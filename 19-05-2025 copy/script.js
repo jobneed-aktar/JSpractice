@@ -54,3 +54,16 @@
 //     msg.style.color = "green";
 // });
 
+
+
+// Bluer event lister
+// const input = document.getElementById("input");
+// const msg = document.getElementById("message");
+// input.addEventListener("blur",()=>{
+//     if(input.value.trim() === ""){
+//         msg.innerText = "Please enter a email address!";
+//     } else {
+//         msg.innerText = input.value;
+//     }
+// });
+
