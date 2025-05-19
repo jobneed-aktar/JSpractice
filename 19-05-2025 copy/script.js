@@ -46,4 +46,11 @@
 // });
 
 
+// Focus event listener
+// const input = document.getElementById("myInput");
+// const msg = document.getElementById("message");
+// input.addEventListener("focus",()=>{
+//     msg.innerText = "You have focused on input box";
+//     msg.style.color = "green";
+// });
 
