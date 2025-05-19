@@ -67,3 +67,12 @@
 //     }
 // });
 
+
+// select event listener
+// const select = document.getElementById("select");
+// const msg = document.getElementById("message");
+
+// select.addEventListener("change",()=>{
+//     msg.innerText = select.value;
+//     msg.style.color = "forestGreen";
+// });
