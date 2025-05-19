@@ -85,3 +85,9 @@
 //     msg.innerText = input.value;
 //     msg.style.color = "forestGreen";
 // });
+
+
+// const btn = document.getElementById("btn");
+// btn.addEventListener("click",(event)=>{
+//     console.log(event.target);
+// });
