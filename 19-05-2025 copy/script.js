@@ -29,3 +29,21 @@
 
 
 
+
+// input child items
+// const input = document.getElementById("input");
+// const output = document.getElementById("output");
+
+// input.addEventListener("keypress",()=> {
+//     output.innerText = input.value;
+// });
+
+
+// form event listener
+// const form = document.getElementById("form");
+// form.addEventListener("submit",(e)=>{
+//     e.preventDefault();
+// });
+
+
+
