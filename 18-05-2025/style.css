@@ -1,0 +1,23 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+
+div {
+    width: 200px;
+    height: 150px;
+}
+
+.box {
+    background: dodgerblue;
+}
+
+.btnClass {
+    background: orange;
+    padding: 20px 25px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+}

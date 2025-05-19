@@ -86,11 +86,11 @@
 // }
 
 // onchange
-function onchangeFunc(msg) {
-    console.log(msg);
-}
+// function onchangeFunc(msg) {
+//     console.log(msg);
+// }
 
-// onkeyup
-function onloadFunc(msg) {
-    console.log(msg);
-}
+// // onkeyup
+// function onloadFunc(msg) {
+//     console.log(msg);
+// }
