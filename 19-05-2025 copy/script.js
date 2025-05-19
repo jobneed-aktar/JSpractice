@@ -11,3 +11,21 @@
 //     list__items.appendChild(createElement);
 //     inputValue.value =" ";
 // }
+
+
+
+// // step 1 select button tag
+// const btn = document.querySelectorAll("button")[0];
+
+// // step 2 add eventlistener with button
+// btn.addEventListener("click",removeFunc)
+
+// // step 3 event function
+// function removeFunc() {
+//     const items = document.getElementById("items");
+//     items.remove(items);
+// }
+
+
+
+
