@@ -13,7 +13,7 @@ function randerTasks() {
     tasks.forEach((task, index)=>{
         // create task items
         const taskItem = document.createElement("div");
-        taskItem.className = "d-flex justify-content-between align-items-center mt-3 border p-2 rounded";
+        taskItem.className = "d-flex justify-content-between align-items-center mt-1 p-2 rounded bg-success text-light ps-5";
 
         // Tast text
         const taskText = document.createElement("span");
@@ -24,7 +24,7 @@ function randerTasks() {
 
         // Edit button
         const editBtn = document.createElement("div");
-        editBtn.className = "btn btn-warning btn-sm me-2"; 
+        editBtn.className = "btn btn-warning text-light btn-sm me-2"; 
         editBtn.textContent = "Edit";
         editBtn.onclick = ()=> handleEdit(index);
 
