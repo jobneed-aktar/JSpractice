@@ -26,4 +26,11 @@
 // const myDiv = document.querySelectorAll(".myDiv a")[0].textContent = "Blogs";
 
 
->
+
+
+
+
+const h1Element = document.createElement("h1");
+const text = document.createTextNode("This is heading one");
+h1Element.appendChild(text);
+document.body.appendChild(h1Element);
