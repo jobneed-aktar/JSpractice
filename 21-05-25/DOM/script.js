@@ -1,4 +1,4 @@
-// <!-- Video No:  DOM 48 -->
+
 // const headingElement = document.getElementById("headingElement");
 // const para = document.getElementById("para");
 // const heading2 = document.getElementById("heading2");
@@ -12,7 +12,7 @@
 
 
 
-// <!-- Video No:  DOM 49 -->
+
 // const pElement = document.querySelector(".para");
 // const pElement = document.querySelector("#para");
 // const pElement = document.querySelector("p");
@@ -26,4 +26,4 @@
 // const myDiv = document.querySelectorAll(".myDiv a")[0].textContent = "Blogs";
 
 
-// <!-- Video No:  DOM 50 -->
+>
