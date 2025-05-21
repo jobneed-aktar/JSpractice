@@ -1,4 +1,4 @@
-// getElementById || First video No:  DOM 49
+// <!-- Video No:  DOM 48 -->
 // const headingElement = document.getElementById("headingElement");
 // const para = document.getElementById("para");
 // const heading2 = document.getElementById("heading2");
@@ -11,6 +11,8 @@
 // paraLast.innerText = "one day i am gonna fly away";
 
 
+
+// <!-- Video No:  DOM 49 -->
 // const pElement = document.querySelector(".para");
 // const pElement = document.querySelector("#para");
 // const pElement = document.querySelector("p");
@@ -22,3 +24,6 @@
 // const liElement2 = document.querySelectorAll("ul li")[1].textContent = "Pakistan";
 
 // const myDiv = document.querySelectorAll(".myDiv a")[0].textContent = "Blogs";
+
+
+// <!-- Video No:  DOM 50 -->
