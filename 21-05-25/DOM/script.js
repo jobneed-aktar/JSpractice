@@ -30,7 +30,9 @@
 
 
 
-const h1Element = document.createElement("h1");
-const text = document.createTextNode("This is heading one");
-h1Element.appendChild(text);
-document.body.appendChild(h1Element);
+// const h1Element = document.createElement("h1");
+// const text = document.createTextNode("This is heading one");
+// h1Element.appendChild(text);
+// document.body.appendChild(h1Element);
+
+
